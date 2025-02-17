@@ -8,8 +8,8 @@ main:
     url: /publications/
   - title: "Software"
     url: /software/
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Courses"
+    url: /courses/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
