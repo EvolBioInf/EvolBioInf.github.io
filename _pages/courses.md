@@ -12,7 +12,6 @@ This is a one-week practical course to learn sequence analysis on the
 Unix command line. It runs from Monday 17th February through to Friday
 21st, nine to five.
 ## Course Links
-### [Participants](participants.md)
 ### Book
 - We follow the book [*Bioinformatics for Evolutionary
   Biologists*](https://link.springer.com/book/10.1007/978-3-031-20414-2),
