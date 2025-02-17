@@ -6,6 +6,8 @@ main:
     url: /members/
   - title: "Publications"
     url: /publications/
+  - title: "Books"
+    url: /books/
   - title: "Software"
     url: /software/
   - title: "Courses"
