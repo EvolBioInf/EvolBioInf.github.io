@@ -18,10 +18,13 @@ reconstruction;
 microbial sequences;
 [paper](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae113/7721998).
 
-+ [Biobox](https://github.com/EvolBioInf/biobox): Collection of
-bioinformatics tools used in
++ [Biobox](https://github.com/EvolBioInf/biobox): Collection of some
+50 bioinformatics tools used in
 [textbook](https://link.springer.com/book/10.1007/978-3-031-20414-2)
-on sequence analysis on the command line.
+on sequence analysis on the command line. They cover alignment,
+compression, exact matching, plotting of graphs, trees, and networks,
+manipulation of FASTA sequences, manipulation of phylogenies, and
+statistics.
 
 + [Neighbors](https://github.com/evolbioinf/neighbors): Collection of
   tools for finding samples of target and neighbor genomes from the
