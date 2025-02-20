@@ -1,16 +1,15 @@
 ---
-title: Bioinformatics for Evolutionary Biologists 2025
+title: Bioinformatics for Evolutionary Biologists
 
 author_profile: false
 
-permalink: /beb25/
+permalink: /beb/
 
 ---
 
 ## [Beatriz Vieira Mourato](https://beatrizvm.github.io/) and [Bernhard Haubold](https://www.evolbio.mpg.de/mitarbeiter/12020)
 This is a one-week practical course to learn sequence analysis on the
-Unix command line. It runs from Monday 17th February through to Friday
-21st, nine to five. 
+Unix command line.
 
 We follow the book [*Bioinformatics for Evolutionary Biologists. A
 Problems

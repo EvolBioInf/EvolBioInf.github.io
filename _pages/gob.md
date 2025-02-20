@@ -1,16 +1,15 @@
 ---
-title: Go Programming, Biologists! 2025
+title: Go Programming, Biologists!
 
 author_profile: false
 
-permalink: /gob25/
+permalink: /gob/
 
 ---
 
 ## [Beatriz Vieira Mourato](https://beatrizvm.github.io/) and [Bernhard Haubold](https://www.evolbio.mpg.de/mitarbeiter/12020)
 This is a one-week practical course to learn Go programming with
-examples from Bioinformatics. It runs from Monday 10th March
-through to Friday 14th, nine to five.
+examples from Bioinformatics.
 
 We follow our [collection of solved problems](https://owncloud.gwdg.de/index.php/s/ttOdYUDdIYIZasq).
 
