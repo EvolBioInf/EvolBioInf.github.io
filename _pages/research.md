@@ -11,17 +11,27 @@ two sequence S_1=`AAGGCCCTCT` and S_2=`AAGGGCCCTCT`, the maximal match
 starting at the first position in S_1 with respect to S_2 is `AAGG`
 and has length 4.
 
-Maximal matches can be looked up quickly from the alphabetically
-sorted suffixes of the input sequences, their *suffix array*. The ease
-with which one can locate maximal matches becomes interesting when we
-realize that all maximal matches end in a mismatch. Mismatches, or
-single nucleotide polymorphisms, SNPs, underlie all of comparative
-genomics. So in order to identify SNPs, we just have to count
-homologous, as opposed to random, matches.
+![suffix tree]({% link _pages/st.png %})
+
+Maximal matches can be looked up quickly from their *suffix tree*. The
+figure above shows the suffix tree for S_1XS_2. The path leading from
+the root of the tree to a leaf spells out the suffix starting at the
+leaf label. For example, The path leading to leaf 1 on the left is
+labeled with the complete input, S_1XS_2. To look up the maximal
+repeat starting at a some position, visit the corresponding leaf and
+look up the path label of its parent. In our example, the leaf
+position is 1 and the parent's leaf label the `AAGG` we also found by
+directly comparing S_1 and S_2.
+
+The ease with which one can locate maximal matches using suffix trees
+becomes interesting when we realize that all maximal matches end in a
+mismatch. Mismatches, or single nucleotide polymorphisms, SNPs,
+underlie all of comparative genomics. So in order to identify SNPs, we
+just have to count homologous, as opposed to random, matches.
 
 To identify homologous matches, we derived the [null
 distribution](https://doi.org/10.1089/cmb.2009.0106) of maximal match
-lengths. Based on this and fast suffix array construction, we
+lengths. Based on this and fast suffix tree construction, we
 developed the program
 [`phylonium`](https://github.com/EvolBioInf/phylonium), for fast and
 accurate estimation of pairwise evolutionary distances between
@@ -30,7 +40,7 @@ hundreds of bacterial genomes.
 We have used a similar approach in our program
 [`fur`](https://github.com/evolbioinf/fur), for finding unique genomic
 regions from whole bacterial genomes. The program `fur` compares a
-sample of target genomes to their closes evolutionary neighbors and
+sample of target genomes to their closest evolutionary neighbors and
 picks the regions present in all targets that are absent from the
 neighbors. These regions are good candidates for diagnostic markers.
 
