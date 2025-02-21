@@ -16,5 +16,5 @@ Blast, and on estimating evolutionary distances from exact matches.
 
 If you like text books, we recommend [*The Go Progrmaming
 Language*](https://www.gopl.io/). There is also a lot to be discovered
-at the [Go developer site](https://www.gopl.io/), we particularly
+on the [Go developer site](https://www.gopl.io/), we particularly
 recommend the sand box entitle "Try Go" on that page.
