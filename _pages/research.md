@@ -3,7 +3,7 @@ title: Our research
 author_profile: false
 permalink: /research/
 ---
-## Comparing Genomes
+## Comparing genomes
 We work on fast methods for genome comparison. These comparisons are
 based on the lengths of maximal matches, which are matches that cannot
 be extended without losing the match. For example, if we compare the
@@ -14,14 +14,14 @@ and has length 4.
 ![suffix tree]({% link _pages/st.png %})
 
 Maximal matches can be looked up quickly from their *suffix tree*. The
-figure above shows the suffix tree for S_1XS_2. The path leading from
-the root of the tree to a leaf spells out the suffix starting at the
-leaf label. For example, The path leading to leaf 1 on the left is
-labeled with the complete input, S_1XS_2. To look up the maximal
-repeat starting at a some position, visit the corresponding leaf and
-look up the path label of its parent. In our example, the leaf
-position is 1 and the parent's leaf label the `AAGG` we also found by
-directly comparing S_1 and S_2.
+figure above shows the suffix tree for our concatenated example
+sequences, S_1XS_2. The path leading from the root to a leaf spells
+out the suffix starting at the leaf label. For example, the path
+leading to leaf 1 on the left is labeled with the complete input,
+S_1XS_2. To look up the maximal repeat starting at a some position,
+visit the corresponding leaf and look up the path label of its
+parent. In our example, the leaf position is 1 and the parent's leaf
+label the `AAGG` we also found by directly comparing S_1 and S_2.
 
 The ease with which one can locate maximal matches using suffix trees
 becomes interesting when we realize that all maximal matches end in a
@@ -44,7 +44,7 @@ sample of target genomes to their closest evolutionary neighbors and
 picks the regions present in all targets that are absent from the
 neighbors. These regions are good candidates for diagnostic markers.
 
-## Looking up Genomes
+## Looking up genomes
 In our work on genome comparison, we rely on efficient methods for
 looking up suitable genomes. For this purpose we have developed the
 package [Neighbors](https://github.com/evolbioinf/neighbors). Given a
