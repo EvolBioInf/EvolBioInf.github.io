@@ -11,7 +11,10 @@ permalink: /gob/
 This is a one-week practical course to learn Go programming with
 examples from Bioinformatics.
 
-We follow our [collection of solved problems](https://owncloud.gwdg.de/index.php/s/ttOdYUDdIYIZasq).
+We follow our collection of approximately 350 solved problems. These
+cover fundamentals of reading and writing data, as well sections on
+writing a simple version of Blast, and on estimating evolutionary
+distances from exact matches.
 
 If you like text books, we recommend [*The Go Progrmaming
 Language*](https://www.gopl.io/). There is also a lot to be discovered
