@@ -22,7 +22,7 @@ by Haubold & Börsch-Haubold.
 - [In a sandbox](https://support.apple.com/guide/terminal/execute-commands-and-run-tools-apdb66b5242-0d18-49fc-9c47-a2498b7c91d5/mac)
 
 ## Demo Software
-- The [`bioinformer`](http://guanine.evolbio.mpg.de/bioinformer/) is
+- The [`bioinformer`](https://github.com/evolbioinf/bioinformer/) is
 a stand-alone Java program to demonstrate some of the concepts
 concepts covered in the course.
 - Draw the [Burrow's Wheeler
