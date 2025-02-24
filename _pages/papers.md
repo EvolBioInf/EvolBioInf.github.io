@@ -1,9 +1,9 @@
 ---
-title: Publications
+title: Papers
 
 author_profile: false
 
-permalink: /publications/
+permalink: /papers/
 ---
 ### 2024
 + Vieira Mourato, B., Tsers, I., Denker, S., Klötzl, F., and Haubold, B. (2024). [Marker discovery in the large](https://doi.org/10.1093/bioadv/vbae113). Advances in Bioinformatics, 4:vbae113.

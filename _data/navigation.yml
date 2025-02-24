@@ -4,8 +4,8 @@ main:
     url: /research/
   - title: "Members"
     url: /members/
-  - title: "Publications"
-    url: /publications/
+  - title: "Papers"
+    url: /papers/
   - title: "Books"
     url: /books/
   - title: "Software"
