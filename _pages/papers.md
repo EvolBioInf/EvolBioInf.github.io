@@ -5,6 +5,10 @@ author_profile: false
 
 permalink: /papers/
 ---
+
+### 2025
++ Vieira Mourato, B and Haubold, B. (2025) [Fast detection of unique genomic regions](https://doi.org/10.1016/j.csbj.2025.02.025). Computational and Structural Biotechnology Journal, 27:843-850.
+
 ### 2024
 + Vieira Mourato, B., Tsers, I., Denker, S., Klötzl, F., and Haubold, B. (2024). [Marker discovery in the large](https://doi.org/10.1093/bioadv/vbae113). Advances in Bioinformatics, 4:vbae113.
 + Vieira Mourato, B. and Haubold, B. (2024). [Detection and Annotation of Unique Regions in Mammalian Genomes](https://doi.org/10.1093/g3journal/jkae257). G3, 15:jkae257.
