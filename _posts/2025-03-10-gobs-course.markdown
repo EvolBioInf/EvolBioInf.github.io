@@ -1,6 +1,6 @@
 ---
 
-title:  "GOBs Workshop: 2025 Edition"
+title:  "GOBs course: 10th-14th March, 2025 Edition"
 date:   2025-03-10 09:00:00 +0100
 
 ---
