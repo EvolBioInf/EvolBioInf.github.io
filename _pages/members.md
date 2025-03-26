@@ -39,6 +39,9 @@ and neighbor (closest distinct relatives) genomes.
 
 ![](/images/Ivan.jpg){: width="150", style="float: left" } |  **Ivan Tsers** <br>Doctoral researcher<br><br>tsers@evolbio.mpg.de 
 
+I am a doctoral researcher in the group. Currently I'm working on
+possible applications of unique genomic regions as taxonomically
+informative markers.
 
 ## Alumni
 
