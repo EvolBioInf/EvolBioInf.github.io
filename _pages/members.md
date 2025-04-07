@@ -46,7 +46,7 @@ informative markers.
 <br>
 <br>
 
-![](/images/Lloyd.jpg){: width="150", style="float: left" } |  **Lloyd-Eddie Nolls** <br>Master student<br><br>noll@evolbio.mpg.de 
+![](/images/Lloyd.jpg){: width="150", style="float: left" } |  **Lloyd-Eddie Noll** <br>Master student<br><br>noll@evolbio.mpg.de 
 
 I am a Master's student currently working on my thesis, focusing on
 lineage-specific genomic regions of phytopathogenic fungi involved in
