@@ -43,6 +43,16 @@ I am a doctoral researcher in the group. Currently I'm working on
 possible applications of unique genomic regions as taxonomically
 informative markers.
 
+<br>
+<br>
+
+![](/images/Lloyd.jpg){: width="150", style="float: left" } |  **Lloyd-Eddie Nolls** <br>Master student<br><br>noll@evolbio.mpg.de 
+
+I am a Master's student currently working on my thesis, focusing on
+lineage-specific genomic regions of phytopathogenic fungi involved in
+the host infection process, as potential candidates for genetic
+markers.
+
 ## Alumni
 
 | | Name | |Project |
