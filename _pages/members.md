@@ -17,11 +17,11 @@ td, th {
 ![](/images/Bernhard.jpg){: width="150", style="float: left" } | **Prof. Dr. Bernhard Haubold** <br>Group leader<br><br>haubold@evolbio.mpg.de |
 
 
-I work on fast methods for genome comparison. My work involves a fair
+I work on fast methods for genome comparison. This involves a fair
 amount of programming, which I do in the literate programming idiom,
 where a program is addressed primarly to a human reader rather than to
-a machine. I also teach at the University of Lübeck and am a coauthor
-of two textbooks on computational biology.
+a machine. I also teach at Lübeck University and am a coauthor of two
+textbooks on computational biology.
 
 <br>
 <br>
@@ -70,7 +70,7 @@ I am a Master's student in Molecular Life Science at the Universität zu Lübeck
 | 2019 | Jessica Piontke | Master's Student| [Function and Complexity in Vertebrate Genomes](https://pure.mpg.de/pubman/faces/ViewItemFullPage.jsp?itemId=item_3027051_3)|
 | 2018 | Lina Urban  | Master's Student |[Estimating Recombination Rates in *D. pulex*](https://pure.mpg.de/pubman/faces/ViewItemFullPage.jsp?itemId=item_3011858_2)|
 | 2018 | Lennart Weckeck | Master's Student| [A Method for Single Nucleotide Polymorphism Calling in Diploid Individuals](https://pure.mpg.de/pubman/faces/ViewItemFullPage.jsp?itemId=item_2591101_4)|
-| 2014 | Angelika Börsch-Haubold | Postdoc | Epigenomics of Wild House Mice |
+| 2014 | Angelika Börsch-Haubold | Postdoc | [Epigenomics of Wild House Mice](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133988) |
 | 2013 | Linda Krause | Master's Student| [Quantitative Epigenetic Analysis of Histone Modifications in Wild-caught Mice](https://pure.mpg.de/rest/items/item_1914023_4/component/file_1914022/content) <br>Carried out under the supervision of Dr. Angelika Börsch-Haubold|
 | 2010 | Mirjana Domazet-Lošo | Doctoral Researcher| [Algorithms for efficient alignment-free sequence comparison](https://pure.mpg.de/rest/items/item_1505125_1/component/file_1505124/content)|
 
