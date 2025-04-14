@@ -53,6 +53,13 @@ lineage-specific genomic regions of phytopathogenic fungi involved in
 the host infection process, as potential candidates for genetic
 markers.
 
+<br>
+<br>
+
+![](/images/Tjorben.jpg){: width="150", style="float: left" } |  **Tjorben Nawroth** <br>Master student<br><br>nawroth@evolbio.mpg.de 
+
+I am a Master's student in Molecular Life Science at the Universität zu Lübeck, currently working on my thesis with the Bioinformatics Research Group at the MPI in Plön. My work focuses on developing an intuitive, web-based application designed to visualize and facilitate the exploration of phylogenetic taxonomies.
+
 ## Alumni
 
 | | Name | |Project |
