@@ -60,6 +60,12 @@ markers.
 
 I am a Master's student in Molecular Life Science at the Universität zu Lübeck, currently working on my thesis with the Bioinformatics Research Group at the MPI in Plön. My work focuses on developing an intuitive, web-based application designed to visualize and facilitate the exploration of phylogenetic taxonomies.
 
+<br>
+<br>
+
+![](/images/SaraLena.png){: width="150", style="float: left" } |  **Sara-Lena Welk** <br>Master student<br><br>welk@evolbio.mpg.de 
+
+I am a Master´s student from the University of Lübeck. I am currently working on my thesis, which focuses on comparing different tools for accessing evolutionary distances in prokaryotes and identifying and resolving the incongruence between taxonomy and phylogeny.
 ## Alumni
 
 | | Name | |Project |
