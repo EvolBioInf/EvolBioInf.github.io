@@ -77,7 +77,7 @@ I am a Master´s student from the University of Lübeck. I am currently working 
 | 2018 | Lina Urban  | Master's Student |[Estimating Recombination Rates in *D. pulex*](https://pure.mpg.de/pubman/faces/ViewItemFullPage.jsp?itemId=item_3011858_2)|
 | 2018 | Lennart Weckeck | Master's Student| [A Method for Single Nucleotide Polymorphism Calling in Diploid Individuals](https://pure.mpg.de/pubman/faces/ViewItemFullPage.jsp?itemId=item_2591101_4)|
 | 2014 | Angelika Börsch-Haubold | Postdoc | [Epigenomics of Wild House Mice](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133988) |
-| 2013 | Linda Krause | Master's Student| [Quantitative Epigenetic Analysis of Histone Modifications in Wild-caught Mice](https://pure.mpg.de/rest/items/item_1914023_4/component/file_1914022/content) <br>Carried out under the supervision of Dr. Angelika Börsch-Haubold|
+| 2013 | Linda Krause | Master's Student| [Quantitative Epigenetic Analysis of Histone Modifications in Wild-caught Mice](https://pure.mpg.de/rest/items/item_1914023_4/component/file_1914022/content)|
 | 2010 | Mirjana Domazet-Lošo | Doctoral Researcher| [Algorithms for efficient alignment-free sequence comparison](https://pure.mpg.de/rest/items/item_1505125_1/component/file_1505124/content)|
 
 
