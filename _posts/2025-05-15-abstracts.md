@@ -1,5 +1,5 @@
 ---
-title:  "Abstracts for ISCB25 Accepted"
+title:  "Abstracts for ISMB25 Accepted"
 date:   2025-05-15 09:01:13 +2
 ---
 
