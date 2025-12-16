@@ -3,8 +3,11 @@ layout: home
 author_profile: true
 ---
 
+{% capture content %}
 Welcome to the website of the [Research Group
 Bioinformatics](https://www.evolbio.mpg.de/5814/group_bioinformatics)
 at the [Max-Planck-Institute for Evolutionary
 Biology](https://www.evolbio.mpg.de/).
+{% endcapture %}
 
+{{content | markdownify }}
