@@ -14,7 +14,7 @@ Biologists!*.
 
 + [Bioinformatics for Evolutionary Biologists]({% link _pages/beb.md
   %})
-  + 17th - 21st February 2025
+  + 9th - 13th February 2026
 
 + [Go Programming, Biologists!]({% link _pages/gob.md %})
-	+ 10th -  14th March 2025
+	+ 9th -  13th March 2026
