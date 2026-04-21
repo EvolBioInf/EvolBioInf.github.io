@@ -64,6 +64,15 @@ Recently finished the masters. I am currently expanding on the work of
 my thesis on resolving the incongruence between taxonomy and
 phylogeny.
 
+<br>
+
+![](/images/Ben.jpg){: width="150", style="float: left" } |  **Ben Bahnsen** <br>Master Student<br><br>bahnsen@evolbio.mpg.de 
+
+I am a computer science student at Lübeck University. I've just
+started working on my master's thesis, which might include expanding
+the Neighbors REST API and adding remote capabilities to programs of
+the Neighbors package.
+
 ## Alumni
 
 |      | Name                    |                 | Project                                                                                                                                                                                 |
