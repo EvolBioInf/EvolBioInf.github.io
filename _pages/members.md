@@ -68,7 +68,7 @@ phylogeny.
 
 |      | Name                    |                 | Project                                                                                                                                                                                 |
 |-----:|:------------------------|:----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026 | Lloyd-Eddie Noll        | Master Thesis   | [Lineage-specific genomic regions and their diagnostic potential in Ustilaginaceae](https://pure.mpg.de/)                                                                               |
+| 2026 | Lloyd-Eddie Noll        | Master Thesis   | [Lineage-specific genomic regions and their diagnostic potential in Ustilaginaceae](https://pure.mpg.de/view/item_3705152_1)                                                            |
 | 2026 | Tjorben Nawroth         | Master Thesis   | [Vitax- visualizing the NCBI Taxonomy](https://pure.mpg.de/view/item_3696463_1)                                                                                                         |
 | 2025 | Sara-Lena Welk          | Master Thesis   | [Comparison of tools for calculating the average nucleotide identity and an analysis of incongruence between microbial taxonomy and phylogeny](https://pure.mpg.de/view/item_3692937_2) |
 | 2022 | Svenja Denker           | Master Thesis   | [Marker Development using Taxonomic Information](https://pure.mpg.de/view/item_3623541_4)                                                                                               |
