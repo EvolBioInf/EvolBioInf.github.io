@@ -73,6 +73,14 @@ started working on my master's thesis, which might include expanding
 the Neighbors REST API and adding remote capabilities to programs of
 the Neighbors package.
 
+<br>
+
+![](/images/Elif.jpeg){: width="150", style="float: left" } |  **Elif Güler** <br>Master Student<br><br>gueler@evolbio.mpg.de 
+
+I am currently pursuing my Master's degree at the University of
+Bologna. My thesis project focuses on comparing bioinformatics tools
+for the identification of informative genetic regions.
+
 ## Alumni
 
 |      | Name                    |                 | Project                                                                                                                                                                                 |
