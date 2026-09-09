@@ -12,8 +12,8 @@ main:
     url: /software/
   - title: "Tutorials"
     url: /tutorials/
-  - title: "Courses"
-    url: /courses/
+  - title: "Teaching"
+    url: /teaching/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

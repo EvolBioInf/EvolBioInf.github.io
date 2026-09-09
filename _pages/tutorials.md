@@ -1,5 +1,5 @@
 ---
-title: Tutorials and Teaching
+title: Tutorials
 
 author_profile: false
 
@@ -12,11 +12,6 @@ learning more about literate programming or bioinformatics.
 ## Teaching
   * [Report](https://github.com/evolbioinf/report): Notes on how to write a report. Can also serve as report template.	
   * [funBi](https://github.com/evolbioinf/funbi): Small two hour tutorial that aims at introducing bioinformatics for highschool students.
-  * **Blockpraktikum and Internships**: We often host students who need to
-    complete internships or projects in order to finish their
-    degrees. If you are interested in working with us please contact
-    us with your CV and your main area of interest (computer science
-    and/or bioinformatics).	
 	
 ## Tutorials
 
