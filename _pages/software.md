@@ -13,8 +13,8 @@ libraries.
 
 ## Programs
 Our programs are concentrated on four topics, genetic marker
-discovery, estimation of evolutionary distances, tools for sequence
-analysis, and teaching. Most of them are written in the [literate
+discovery, estimation of evolutionary distances and tools for sequence
+analysis. Most of them are written in the [literate
 programming](https://www-cs-faculty.stanford.edu/~knuth/lp.html) style
 to address human readers rather than machines. The majority of our
 programs run under the Unix command line, but there are exceptions
@@ -49,10 +49,9 @@ dedicated Docker container for testing our command line tools.
   * [`bioGrep`](https://github.com/evolbioinf/biogrep): A grep-like tool for biological sequences.
   * [`ms2dna`](https://github.com/evolbioinf/ms2dna): Convert haplotypes generated with the program [`ms`](https://home.uchicago.edu/rhudson1/source/mksamples.html) to DNA sequences.
 
-* Teaching and Tutorials
-  * [Ltp](https://github.com/evolbioinf/ltp): Learning to Programm. As we said above, we aim to present our programs as [literate programs](https://www-cs-faculty.stanford.edu/~knuth/lp.html) addressed to human readers rather than to machines. The package Ltp contains a gentle introduction to our take on literate programming.
-  * [Report](https://github.com/evolbioinf/report): Notes on how to write a report. Can also serve as report template.
-  * [Bioinformer](https://github.com/evolbioinf/bioinformer): Collection of graphical programs for demonstrating some of the Bioinformatics ideas described in the [textbook](https://link.springer.com/book/10.1007/3-7643-7387-3) *Introduction to Computational Biology. An Evolutionary Approach* by Bernhard Haubold and Thomas Wiehe.
+* Data simulation
+  * [`stan`](https://github.com/evolbioinf/stan): Simulates targets and
+    neighbors genomes under a coalescent model. 
 
 * Software Testing
   * [Mix](https://hub.docker.com/r/haubold/mix): Docker container that servers as a Minimum Unix Box, which we use as a defined starting point for testing our programs and finding their dependencies.

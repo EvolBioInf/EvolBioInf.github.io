@@ -10,6 +10,8 @@ main:
     url: /books/
   - title: "Software"
     url: /software/
+  - title: "Tutorials"
+    url: /tutorials/
   - title: "Courses"
     url: /courses/
   # - title: "About"
