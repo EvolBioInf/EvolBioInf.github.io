@@ -8,6 +8,26 @@ Welcome to the website of the [Research Group
 Bioinformatics](https://www.evolbio.mpg.de/5814/group_bioinformatics)
 at the [Max-Planck-Institute for Evolutionary
 Biology](https://www.evolbio.mpg.de/).
+
+We work on computational tools for discovering genetic markers from
+whole genome sequences. This has resulted in the programs
+[`andi`](https://github.com/evolbioinf/andi) and
+[`phylonium`](https://github.com/evolbioinf/phylonium) for estimating
+evolutionary distances from genomes, the program
+[`fur`](https://github.com/evolbioinf/fur) for finding unique regions
+from target and off-target genomes, and the package
+[Neighbors](https://github.com/evolbioinf/neighbors) for discovering
+the target and off-target genomes available in Genbank. The most
+interesting off-target genomes are the targets' closest distinct
+relatives, which we call their *neighbors*, hence the name of the
+package, Neighbors.
+
+To further support the discovery of targets and neighbors, we also
+provide a REST API for Neighbors hosted on our web server
+[Never](https://neighbors.evolbio.mpg.de/). This server underlies our
+website for visualizing the taxonomy of life and the associated genome
+sequences, [Vitax](https://neighbors.evolbio.mpg.de/vitax/).
+
 {% endcapture %}
 
 {{content | markdownify }}
