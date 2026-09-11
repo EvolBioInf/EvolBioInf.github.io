@@ -47,18 +47,7 @@ informative markers.
 
 <br>
 
-![](/images/Tjorben.jpg){: width="150", style="float: left" } |  **Tjorben Nawroth** <br>Guest<br><br>nawroth@evolbio.mpg.de 
-
-Finished my Master's student in Molecular Life Science at the
-Universität zu Lübeck. I am currently expanding my work on
-[vitax](https://neighbors.evolbio.mpg.de/vitax/), a web-based
-application designed to visualize and facilitate the exploration of
-phylogenetic taxonomies.
-
-<br>
-<br>
-
-![](/images/SaraLena.png){: width="150", style="float: left" } |  **Sara-Lena Welk** <br>Research assistant<br><br>welk@evolbio.mpg.de 
+![](/images/SaraLena.png){: width="150", style="float: left" } |  **Sara-Lena Welk** <br>Doctoral Researcher<br><br>welk@evolbio.mpg.de 
 
 Recently finished the masters. I am currently expanding on the work of
 my thesis on resolving the incongruence between taxonomy and
@@ -80,6 +69,18 @@ the Neighbors package.
 I am currently pursuing my Master's degree at the University of
 Bologna. My thesis project focuses on comparing bioinformatics tools
 for the identification of informative genetic regions.
+
+<br>
+
+![](/images/Tjorben.jpg){: width="150", style="float: left" } |  **Tjorben Nawroth** <br>Guest<br><br>nawroth@evolbio.mpg.de 
+
+Finished my Master's student in Molecular Life Science at the
+Universität zu Lübeck. I am currently expanding my work on
+[vitax](https://neighbors.evolbio.mpg.de/vitax/), a web-based
+application designed to visualize and facilitate the exploration of
+phylogenetic taxonomies.
+
+<br>
 
 ## Alumni
 
